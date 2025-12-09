@@ -9,6 +9,8 @@ O placar atualiza automaticamente e o jogo exibe mensagens dinâmicas sobre o re
 Basta abrir o arquivo index.html no navegador para jogar.
 Você pode arrastar o arquivo direto para o Chrome, Firefox ou Edge.
 
+🔗 GitHub Pages --> https://mauriciogonzalezdev.github.io/JOKENPO/
+
 🎮 Como funciona
 
 O jogador escolhe entre Pedra, Papel ou Tesoura.
@@ -101,3 +103,4 @@ Futuramente, você pode adicionar:
 📜 Licença
 
 Este projeto é livre para estudo, modificação e melhoria.
+
